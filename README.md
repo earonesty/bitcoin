@@ -73,9 +73,6 @@ Slimcoin is a P2P project - there is no “official dev”, nor it is managed by
 
 ## SlimCoin Resources
 
-* Project website 
-  - [slimcoin.info](https://slimco.in)
-
 * Github Project Site 
   - [github.com/slimcoin-project](https://github.com/slimcoin-project)
 
